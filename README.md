@@ -1,5 +1,5 @@
-# CSS + JS Clock
-A working analog clock that displays the current time
+<h1 style="text-align: center;">CSS + JS Clock</h1>
+<p style="text-align: center;">A working analog clock that displays the current time</p>
 
 ## Table of Contents
 * [Project Status](#project-status)
